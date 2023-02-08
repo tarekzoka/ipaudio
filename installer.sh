@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 echo
-version=7.0
+version=7.4
 description="Server A fixed"
 #############################################################
 
