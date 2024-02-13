@@ -92,7 +92,7 @@ done
 #config
 plugin=ipaudiopro
 version=1.1
-url=https://gitlab.com/eliesat/extensions/-/raw/main/ipaudiopro/ipaudiopro-1.1.tar.gz
+url=https://github.com/tarekzoka/ipaudio/raw/main/ipaudiopro-1.1.tar.gz
 package=/var/volatile/tmp/$plugin-$version.tar.gz
 
 #download & install
