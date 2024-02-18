@@ -1,4 +1,16 @@
 #!/bin/sh
+opkg install alsa-plugins
+opkg install libasound2 
+opkg install libavcodec60 
+opkg install libavformat60 
+opkg install libc6 
+opkg install libgcc1 
+opkg install libpython3.11-1.0
+opkg install libstdc++6 
+opkg install python3-core
+opkg install python3-cryptography
+wait
+#!/bin/sh
 # Check python
 pyVersion=$(python -c"from sys import version_info; print(version_info[0])")
 arch=$(uname -m)
