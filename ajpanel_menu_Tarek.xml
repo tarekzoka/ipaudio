@@ -29,11 +29,55 @@
         title2_bg="#000000"
         width="1600"
         height="950">
-        <item 
-            name="aglare-2.6"
-            icon="/media/hdd/AJPanel_Backup/icons/pli.png"
-            ask="Install aglare-2.6 ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/aglare-fhd-atv.sh -O - | /bin/sh</item>
 <item 
+            name="copper-fhd_2.3"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install copper-fhd?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/copper-fhd_2.3.sh -O - | /bin/sh</item>
+<item 
+            name="MetrixHD"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install MetrixHD?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/MetrixHD.sh -O - | /bin/sh</item>
+
+<item 
+            name="aglare-fhd_3.4"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install aglare ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/aglare-fhd_3.4.sh -O - | /bin/sh</item> 
+<item 
+            name="aglare-fhd_3.2"
+            icon="/media/hdd/AJPanel_Backup/icons/pli.png"
+            ask="Install aglare ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/pli/aglare-fhd-pli.sh -O - | /bin/sh</item>
+
+<item 
+            name="premium-fhd-magenta_3.1"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install premium-fhd-magenta?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/premium-fhd-magenta_3.1.sh -O - | /bin/sh</item>
+<item 
+            name="premium-fhd-red"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install premium-fhd-red?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/premium-fhd-red.sh -O - | /bin/sh</item>
+
+
+<item 
+            name="premium-fhd-blue_3.1"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install premium-fhd-blue?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/premium-fhd-blue_3.1.sh -O - | /bin/sh</item>
+
+<item 
+            name="premium-fhd-black_3.1"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install premium-fhd-black?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/premium-fhd-black_3.sh -O - | /bin/sh</item>
+<item 
+            name="novax-fhd_2.1"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install novax-fhd?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/novax-fhd_2.1.sh -O - | /bin/sh</item>
+
+<item 
+            name="aglare-fhd_3.4"
+            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
+            ask="Install aglare-fhd?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/aglare-fhd_3.4.sh -O - | /bin/sh</item>
+
+     
+<item
             name="aglare-3"
             icon="/media/hdd/AJPanel_Backup/icons/atv.png"
             ask="Install aglare-3?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/aglare-fhd-atv1.sh -O - | /bin/sh</item>
@@ -41,6 +85,11 @@
             name="aglare-2.7"
             icon="/media/hdd/AJPanel_Backup/icons/atv.png"
             ask="Install aglare-2.7 ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/atv/aglare-fhd-atv2.sh -O - | /bin/sh</item>
+<item
+            name="ORANGESKY-XP2-FHD"
+         icon="/media/hdd/AJPanel_Backup/icons/pli.png"
+            ask="Install ORANGESKY-XP2 ?">wget https://raw.githubusercontent.com/tarekzoka/SKINS/main/Muaath/installer.sh -O - | /bin/sh</item>
+
 <item
             name="bohallaskin"
             icon="/media/hdd/AJPanel_Backup/icons/atv.png"
@@ -57,11 +106,16 @@
 <item
             name="mxsline-blu"
             icon="/media/hdd/AJPanel_Backup/icon/OBH.png"
-            ask="Install mx-sline-blu ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/SKINS/main/main/OB-blackhole/mx-sline-blu.sh -O - | /bin/sh</item> 
+            ask="Install mx-sline-blu ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/SKINS/main/OB-blackhole/mx-sline-blu.sh -O - | /bin/sh</item> 
+<item 
+            name="TITANIUOM"
+            icon="/media/hdd/AJPanel_Backup/icons/BH.png"
+            ask="Install titaniuom ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/OBH/MX-LiveFHD-posterX-v3.sh -O - | /bin/sh</item>
+
 <item
             name="mxsline-red"
             icon="/media/hdd/AJPanel_Backup/icon/OBH.png"
-            ask="Install mx-sline-red ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/SKINS/main/main/OB-blackhole/mx-sline-red.sh -O - | /bin/sh</item> 
+            ask="Install mx-sline-red ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/SKINS/main/OB-blackhole/mx-sline-red.sh -O - | /bin/sh</item> 
 <item
             name="MxPrioFHDxtra"
             icon="/media/hdd/AJPanel_Backup/icon/OBH.png"
@@ -142,9 +196,9 @@
 #########################################
 ##############update-feed##############
     <submenu
-        title="update-feed"
+        title="up-panel-feed"
         info="Download And Install plugin"
-        icon="/media/hdd/AJPanel_Backup/icons/FEED.png"
+        icon="/media/hdd/AJPanel_Backup/icons/FEED1.png"
         mode="grid_6x3"
         shade="yes"
         font_size="50"
@@ -158,15 +212,22 @@
         width="1600"
         height="950">
         <item
-            name="update-ajpanel-menu"
-         icon="/media/hdd/AJPanel_Backup/icons/FEED2.png"
+            name="ajp-menu-icons"
+         icon="/media/hdd/AJPanel_Backup/icons/menu.png"
             ask="Install update-ajpanel-menu ?">wget https://raw.githubusercontent.com/tarekzoka/ajpanel/main/ajpanel_menu.sh -O - | /bin/sh</item>
+<item
+            name="ajpapel-xml"
+         icon="/media/hdd/AJPanel_Backup/icons/xml.png"
+            ask="Install update-menu-light ?">wget https://raw.githubusercontent.com/tarekzoka/ajpanel/main/ajpanel_menu-light.sh -O - | /bin/sh</item>
+
             <item
-            name="update-feed-tarek"
-         icon="/media/hdd/AJPanel_Backup/icons/FEED2.png"
+            name="feed-tarek"
+         icon="/media/hdd/AJPanel_Backup/icons/FEED.png"
             ask="Install update-feed-tarek ?">wget https://raw.githubusercontent.com/tarekzoka/settingsz/main/tarekfeed.sh -O - | /bin/sh</item>
 
-<item name="update-dependencies" info="Download correction ipk" icon="/media/hdd/AJPanel_Backup/icons/FEED2.png" ask="yes">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_update-dependencies.sh -O - | /bin/sh</item>
+<item name="update-dependencies" info="Download correction ipk" icon="/media/hdd/AJPanel_Backup/icons/dp.png" ask="yes">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_update-dependencies.sh -O - | /bin/sh</item>
+<item name="update-dependencies1" info="Download correction ipk" icon="/media/hdd/AJPanel_Backup/icons/dp.png" ask="yes">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_update-dependencies1.sh -O - | /bin/sh</item>
+
 
         </submenu>
 #########################################
@@ -195,6 +256,11 @@
             name="ch-ahmed-husin"
             icon="/media/hdd/AJPanel_Backup/icons/chanell3.png"
             ask="Install channels ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/channels/main/channel-ahmed-husin.sh -O - | /bin/sh</item>
+<item 
+            name="channel-ashry"
+            icon="/media/hdd/AJPanel_Backup/icons/chanell3.png"
+            ask="Install channel-ashry ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/channels/-/raw/main/channel-ashry-2024-6.sh -O - | /bin/sh</item>
+
 
 <item 
             name="ch-M.goda"
@@ -267,12 +333,33 @@
         title2_bg="#000000"
         width="1600"
         height="950">
-        <item
-            name="EPGImport"
-         icon="/media/hdd/AJPanel_Backup/icons/epg2.png"
-            ask="Install EPGImport ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/EPGImport/main/installer.sh -O - | /bin/sh</item>
 
+    <item 
+            name="mips-ipaudiopro-last"
+            icon="/media/hdd/AJPanel_Backup/icons/IpAudioPro.png"
+            ask="Install ipaudiopro-last ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/ipaudiopro-last/ipaudiopro-pro-mips.sh -O - | /bin/sh</item>
+    
 <item name="epggrabber1" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/epg.png">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/epggrabber/epggrabber.sh -O - | /bin/sh</item>
+<item 
+            name="new-multistalker-pro"
+            icon="/media/hdd/AJPanel_Backup/icons/mpro.png"
+            ask="Install multistalker-pro ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/multistalker-pro/main/multistalker-pro.sh -O - | /bin/sh</item>
+<item 
+            name="mips-multistalker-pro"
+            icon="/media/hdd/AJPanel_Backup/icons/mpro.png"
+            ask="Install multistalker-mips ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/multistalker-pro/main/multistalker-pro-mips.sh -O - | /bin/sh</item>
+
+<item 
+            name="ipaudiopro-last"
+            icon="/media/hdd/AJPanel_Backup/icons/IpAudioPro.png"
+            ask="Install ipaudiopro-last ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/ipaudiopro-last/ipaudiopro-1.1-last.sh -O - | /bin/sh</item>
+
+<item 
+            name="dependencies-ipaudiopro"
+            icon="/media/hdd/AJPanel_Backup/icons/depe.png"
+            ask="Install dependencies-audio ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/ipaudiopro-last/update-dependencies-audio.sh -O - | /bin/sh</item>
+
+
 
             <item 
             name="IpAudioPro"
@@ -283,17 +370,32 @@
          icon="/media/hdd/AJPanel_Backup/icons/IpAudioPro.png"
             ask="Install ipaudiopro ?">wget https://raw.githubusercontent.com/tarekzoka/ipaudio/main/ipaudiopro-new3.sh -O - | /bin/sh</item>
             <item 
-            name="EPGImport-egami10.5"
-            icon="/media/hdd/AJPanel_Backup/icons/epg2.png"
+            name="egami10.5"
+            icon="/media/hdd/AJPanel_Backup/icons/epg.png"
             ask="Install EPGImport ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/EPGImport/main/EPGImport-mod.sh -O - | /bin/sh</item>
 <item 
             name="subssupport"
             icon="/media/hdd/AJPanel_Backup/icons/sub.png"
             ask="Install subssupport ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/subssupport/subssupport.sh -O - | /bin/sh</item>
 <item 
+            name="subssupport-1.5.8-r9"
+            icon="/media/hdd/AJPanel_Backup/icons/sub.png"
+            ask="Install subssupport-1.5.8-r9 ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/subssupport/subssupport-1.5.8-r9.sh -O - | /bin/sh</item>
+<item 
+            name="xklass"
+            icon="/media/hdd/AJPanel_Backup/icons/kis.png"
+            ask="Install xklass ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/xklass/xklass-playeriptv.sh -O - | /bin/sh</item>
+
+<item 
             name="ajpanel"
             icon="/media/hdd/AJPanel_Backup/icons/aj.png"
             ask="Install ajpanel ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/ajpanel/ajpanel.sh -O - | /bin/sh</item>
+
+<item
+            name="ipkinstaller"
+            icon="/media/hdd/AJPanel_Backup/icons/REMOVE1.png"
+            ask="Install TOOL-ipkinstaller ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/Tooles/main/TOOL-ipkinstaller.sh -O - | /bin/sh
+</item>
 
  <item
             name="Sherlockmod"
@@ -363,7 +465,7 @@
             ask="Install Gstreamer ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/ipaudio/main/Gstreamer-audio.sh -O - | /bin/sh</item>
 <item 
             name="multistalkerpro"
-            icon="/media/hdd/AJPanel_Backup/icons/ms.png"
+            icon="/media/hdd/AJPanel_Backup/icons/mpro.png"
             ask="Install multistalkerpro ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/multistalker-pro/multistalkerpro.sh -O - | /bin/sh</item>
 <item 
             name="arabic-savior"
@@ -425,28 +527,46 @@
 			<item name="novalerstore" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/ns.png" info="(بانل تسطيب اضافات)">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/novalerstore/novalerstore.sh -O - | /bin/sh</item>
 			<item name="oaweather" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/oa.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/oaweather/oaweather.sh?inline=false -O - | /bin/sh</item>
 			<item name="opdboot" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/opdboot.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/opdboot/opdboot.sh -O - | /bin/sh</item>
+<item name="worldcam-4.5" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/wor.png">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/worldcam/worldcam-v-4.2.5.sh -O - | /bin/sh</item>
 
 <item name="worldcam" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/wor.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/worldcam/main/installer.sh -O - | /bin/sh</item>
 			<item name="opkg-tools" ask="yes(reboot)" icon="/media/hdd/AJPanel_Backup/icons/opkgtools.png"  info="(اداة تشغيل خاصة بالajpanel)">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/opkg-tools/opkg-tools.sh -O - | /bin/sh</item>
 
-<item name="worldcam1" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/wor.png">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/worldcam/worldcam1.sh -O - | /bin/sh</item>
+<item name="worldcam-4.3" ask="yes" icon="/media/hdd/AJPanel_Backup/icons/wor.png">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/worldcam/worldcam4.3.sh -O - | /bin/sh</item>
 <item 
             name="youtube"
             icon="/media/hdd/AJPanel_Backup/icons/yt.png"
             ask="Install youtube ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/youtube/youtube.sh -O - | /bin/sh</item>
+
+
 <item
             name="ServiceApp-audio"
          icon="/media/hdd/AJPanel_Backup/icons/Tooles.png"
             ask="Install ServiceApp ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/ipaudio/main/ServiceApp-audio.sh -O - | /bin/sh</item>
 
+<item
+            name="EPGImport"
+         icon="/media/hdd/AJPanel_Backup/icons/epg.png"
+            ask="Install EPGImport ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/EPGImport/main/installer.sh -O - | /bin/sh</item>
 <item 
             name="IPaudioPro-mnasr"
             icon="/media/hdd/AJPanel_Backup/icons/IpAudioPro.png"
             ask="Install IPaudioPro-mnasr ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/%20IPaudiopro/IPaudioPro-mnasr.sh -O - | /bin/sh</item>
+
 <item 
-            name="ipaudiopro-Elsafty"
+            name="ipaudiopro-last-link"
             icon="/media/hdd/AJPanel_Backup/icons/IpAudioPro.png"
-            ask="Install safty-ipaudiopro ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/ipaudio/main/safty-ipaudio7.4.sh -O - | /bin/sh</item>
+            ask="Install ipaudiopro-last ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/ipaudiopro-last/ipaudiopro.sh -O - | /bin/sh</item>
+
+<item 
+            name="new-multistalker-pro"
+            icon="/media/hdd/AJPanel_Backup/icons/mpro.png"
+            ask="Install multistalker-pro ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/multistalker-pro/main/multistalker-pro.sh -O - | /bin/sh</item>
+
+<item 
+            name="vavoo"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles.png"
+            ask="Install vavoo ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/vavoo/-/raw/main/vavoo.sh -O - | /bin/sh</item>
 
 
 </submenu>
@@ -859,6 +979,11 @@ exit 0
             icon="/media/hdd/AJPanel_Backup/icons/oscam-11731.png"
             ask="Install oscam-last ?">wget -q "--no-check-certificate" wget https://raw.githubusercontent.com/tarekzoka/oscam-nacam/main/installer2.sh -O - | /bin/sh</item>
 
+<item 
+            name="OSCAM-audi06"
+            icon="/media/hdd/AJPanel_Backup/icons/oscam-11731.png"
+            ask="Install OSCAM-audi06 ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/softcam/-/raw/main/audi06_19/oscam.sh -O - | /bin/sh</item>
+
 <item name="OSCamicam_Kitte888" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/plug.png">wget https://raw.githubusercontent.com/biko-73/OSCamicam_Kitte888/main/installer.sh  -O - | /bin/sh</item>
 
 <item name="MOH-OS-oscam " icon="/media/hdd/AJPanel_Backup/icons/oscam1.png" ask="yes">curl -LJso- "https://gitlab.com/MOHAMED_OS/dz_store/-/raw/main/Cam_Emulator/online-setup" | bash -s oscam</item>
@@ -907,6 +1032,26 @@ exit 0
             name="vertualkeyboard"
             icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
             ask="Install vertualkeyboard ?">wget https://raw.githubusercontent.com/tarekzoka/Tooles/main/TOOLSvertualkeyboard.sh -O - | /bin/sh</item>
+<item 
+            name="Settings_all_image"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            ask="Install Settings_ ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/settings-allimge/-/raw/main/TarekSettings_all_image.sh -O - | /bin/sh</item>
+<item 
+            name="epg-kaled"
+            icon="/media/hdd/AJPanel_Backup/icons/robot.png"
+            ask="Install epg-kaled ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/epg/epg-kaled.sh -O - | /bin/sh</item>
+<item 
+            name="EPG-CORN"
+            icon="/media/hdd/AJPanel_Backup/icons/robot.png"
+            ask="Install EPG-CORN ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/epg/EPG-CORN.sh -O - | /bin/sh</item>
+
+
+<item 
+            name="metrix_skinparts"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            ask="Install metrix_skinparts ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/metrix-parts/metrix_skinparts.sh -O - | /bin/sh</item>
+
+
 <item
             name="ar"
             icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
@@ -978,7 +1123,7 @@ exit 0
 
 <item
             name="MultiStalker-OS"
-            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            icon="/media/hdd/AJPanel_Backup/icons/mpro.png"
             ask="Install MultiStalker-OS ?">#!/bin/sh
 ##
 echo ""
@@ -1028,6 +1173,11 @@ exit 0 </item>
             name="ArabicSavior"
          icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
             ask="Install ArabicSavior ?">wget https://raw.githubusercontent.com/tarekzoka/ArabicSavior/main/ArabicSavior2.sh -O - | /bin/sh</item>
+<item 
+            name="dependencies-audio"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            ask="Install dependencies-audio ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/ipaudiopro-last/update-dependencies-audio.sh -O - | /bin/sh</item>
+
 <item
             name="asound-libasound"
          icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
@@ -1037,10 +1187,32 @@ exit 0 </item>
          icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
             ask="Install asound-libasound ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/ipaudio/main/asound-libasound2.sh -O - | /bin/sh</item>
 <item 
-            name="ar"
-            icon="/media/hdd/AJPanel_Backup/icons/atv.png"
-            ask="Install ar ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/ajpanel/main/ar/installer2.sh -O - | /bin/sh</item>
+            name="old-Elsafty"
+            icon="/media/hdd/AJPanel_Backup/icons/mpro.png"
+            ask="Install old-Elsafty ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/ipaudio/main/safty-ipaudio7.4.sh -O - | /bin/sh</item>
+<item 
+            name="ipaudiopro-Elsafty"
+            icon="/media/hdd/AJPanel_Backup/icons/mpro.png"
+            ask="Install ipaudiopro-Elsafty ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/plugin/-/raw/main/ipaudiopro-last/ipaudiopro-Elsafty.sh -O - | /bin/sh</item>
+<item 
+            name="alsa-utils"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            ask="Install alsa-utils ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/tooles/-/raw/main/alsa-utils.sh -O - | /bin/sh</item>
 
+<item 
+            name="curl"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            ask="Install curl ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/tooles/-/raw/main/curl.sh -O - | /bin/sh</item>
+
+
+<item 
+            name="ar"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            ask="Install ar ?">wget -q "--no-check-certificate" https://raw.githubusercontent.com/tarekzoka/ajpanel/main/ar/installer2.sh -O - | /bin/sh</item>
+<item 
+            name="metrix_skinparts-etc-usr"
+            icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png"
+            ask="Install metrix_skinparts ?">wget -q "--no-check-certificate" https://gitlab.com/hanfy1971/skins/-/raw/main/metrix-parts/metrix-fhd-parts-ec-usr.sh -O - | /bin/sh</item>
 
 <item
             name="Freeccam3"
@@ -1156,7 +1328,7 @@ exit 0 </item>
 #########################################
 ##############DANS##############
 
-		<submenu title="DANS" shade="yes" mode="grid" width="1920" height="1080" icon="/media/hdd/AJPanel_Backup/icons/DNS.png" bg=" " title_fg=" " title_bg=" " align_items="left">
+		<submenu title="DANS" shade="yes" mode="grid" width="1920" height="1080" icon="/media/hdd/AJPanel_Backup/icons/Tooles2.png" bg=" " title_fg=" " title_bg=" " align_items="left">
 			<item name="Google">echo "nameserver 8.8.8.8" > /etc/resolv.conf; echo "nameserver 8.8.4.4" >> /etc/resolv.conf; killall -9 enigma2</item>
 		<item name="Cloudflare">echo "nameserver 1.1.1.1" > /etc/resolv.conf; echo "nameserver 1.0.0.1" >> /etc/resolv.conf; killall -9 enigma2</item>
 		<item name="CleanBrowsing">echo "nameserver 185.228.168.9" > /etc/resolv.conf; echo "nameserver 185.228.169.9" >> /etc/resolv.conf; killall -9 enigma2</item>
