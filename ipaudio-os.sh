@@ -1,16 +1,13 @@
 #!/bin/sh
 #
 
-wget -O /tmp/ipaudio-os.tar.gz "https://raw.githubusercontent.com/tarekzoka/ipaudio/raw/main/ipaudio-os.tar.gz"
-
-tar -xzf /tmp/*.tar.gz -C /
-
-rm -r /tmp/ipaudio-os.tar.gz
+wget -O /etc/enigma2/ipaudio.json "https://raw.githubusercontent.com/tarekzoka/ipaudio/refs/heads/main/ipaudio.json"
 
 wait
 
 by tarek hanfy
 
-killall -9 enigma2
+
 
 sleep 2;
+
